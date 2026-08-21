@@ -12,7 +12,7 @@
 
 ### Tecnologías que se van a Utilizar
 * **Lenguajes:** JavaScript (ES6+), HTML5, CSS3, SQL.
-* **Frameworks:** Node.js / Express (Backend), SPA PWA / Service Workers (Frontend)[cite: 2].
-* **Base de Datos:** PostgreSQL / MySQL[cite: 2].
+* **Frameworks:** Node.js / Express (Backend), SPA PWA / Service Workers (Frontend).
+* **Base de Datos:** PostgreSQL / MySQL.
 * **Cloud / Infraestructura:** Docker, Docker Compose.
 
