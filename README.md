@@ -1,5 +1,7 @@
 # Sistema Kiosco Interactivo (InfoDuoc UC San Joaquín)
 
+<img width="1920" height="1080" alt="Adobe Express - record_2026-10-08_22-24-50" src="https://github.com/user-attachments/assets/ee6ef938-1d37-4907-b33e-3a72f8e9b46c" />
+
 ### Descripción
 * **Qué hace:** Aplicación web optimizada para tótem táctil que integra un mapa isométrico interactivo de 8 pisos y un directorio institucional dinámico.
 * **A quién va dirigido:** Alumnos de primer año, docentes nuevos, visitas y la comunidad académica en general de Duoc UC Sede San Joaquín.
@@ -10,6 +12,8 @@
 * **Backend:** Node.js, Express.
 * **Base de Datos:** PostgreSQL / MySQL.
 * **Cloud / Infraestructura:** Docker, Docker Compose.
+
+<img width="1920" height="1080" alt="Adobe Express - record_2026-10-08_22-29-49" src="https://github.com/user-attachments/assets/9c434100-ee81-498d-a663-1b204abcda68" />
 
 ### Instrucciones para ejecutar el proyecto localmente
 Para levantar el entorno de desarrollo web en tu máquina, sigue estos pasos:
@@ -22,11 +26,15 @@ Para levantar el entorno de desarrollo web en tu máquina, sigue estos pasos:
 4. Ejecuta el servidor de desarrollo local:
    `npm run dev`
 5. Abre tu navegador web e ingresa a la dirección indicada en la terminal (por defecto `http://localhost:5173`) para ver el kiosco en funcionamiento.
+   
+
 
 ### Integrantes del equipo con sus roles
 * **Vicente Salinas:** Lead Backend / DevOps, Data Modeling & Agile Coach.
 * **Benjamín Nuñez:** Lead Frontend / UI/UX & Map Graphics Specialist.
 * **Brandon Monsalve:** Full-Stack Developer / QA & Service Integration.
+* 
+<img width="1920" height="1080" alt="Adobe Express - record_2026-10-08_22-34-12 (1)" src="https://github.com/user-attachments/assets/2e3ed94c-3fb7-4d7a-91a1-d41551c296b2" />
 
 ### Metodología de trabajo del equipo
 El equipo gestiona el ciclo de vida del proyecto utilizando el marco de trabajo ágil **Scrum**. El desarrollo se estructura en iteraciones (Sprints) enfocadas en entregar valor funcional y visual continuo para el kiosco interactivo. Se aplican activamente prácticas de Agile Coaching para mantener una comunicación fluida entre las áreas de Frontend, Backend y Calidad (QA), priorizando la adaptabilidad y la mejora continua ante los requerimientos web del cliente (Sede San Joaquín).
